@@ -1,0 +1,20 @@
+# ✅ Safe URLs
+https://www.google.com
+https://www.github.com
+https://www.python.org
+https://www.bankofamerica.com
+https://accounts.google.com
+
+# ⚠️ Suspicious URLs
+http://login-secure-paypal.com
+http://update.bankofamerica.login.info
+http://signin-update.verifyaccount.net
+http://login.confirm-password-check.ru
+
+# ❌ Likely Phishing
+http://192.168.0.1/login
+http://secure-paypa1.com/verify/account
+http://update-login.verify-password.com
+http://account.verify-login-update.net
+http://free-amazon-voucher.claim-now.ru
+http://malicious-login-facebook.com.security-login.ru
